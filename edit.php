@@ -41,7 +41,7 @@ if (isset($_POST['submit'])) {
 <!DOCTYPE html>
 <html>
 <head>
-	<title>RECORD SYSTEM</title>
+	<title>RECORD SYSTEMs</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
